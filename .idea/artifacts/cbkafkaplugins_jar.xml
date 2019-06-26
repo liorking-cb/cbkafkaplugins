@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cbkafkaplugins:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cbkafkaplugins_jar</output-path>
+    <root id="archive" name="cbkafkaplugins.jar">
+      <element id="module-output" name="cbkafkaplugins" />
+    </root>
+  </artifact>
+</component>
